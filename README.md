@@ -46,6 +46,10 @@ php artisan serve
 php artisan db:seed
 ```
 
+## Usage
+
+**For API**, I used POSTMAN and added **Content-Type: application/json** and **Accept: application/json** to headers
+
 ### **Example for creating user with JSON in for example POSTMAN:**
 ```bash
 {
