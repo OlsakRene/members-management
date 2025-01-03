@@ -41,3 +41,31 @@ php artisan migrate
 ```bash
 php artisan serve
 ```
+### **If you want to use the seeder:**
+```bash
+php artisan db:seed
+```
+
+## Usage
+
+**For API**, I used POSTMAN and added **Content-Type: application/json** and **Accept: application/json** to headers
+
+API documentation is in members-management folder (API_DOCUMENTATION.md)
+
+### **Example for creating user with JSON in for example POSTMAN:**
+```bash
+{
+  "first_name": "John",
+  "last_name": "Doe",
+  "email": "john.doe@example.com",
+  "birth_date": "1990-01-01",
+  "tags": [1,2,3]
+}
+```
+
+### **Example for creating tag:**
+```bash
+{
+  "name": "VIP",
+}
+```
