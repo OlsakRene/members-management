@@ -60,11 +60,4 @@
  * ### Delete Tag
  * - `DELETE /tags/{id}`
  * - Response: 204 No Content.
- * 
- * ## ERROR HANDLING
- * 
- * ### Possible Errors
- * - `400` Bad Request: Invalid input or missing fields.
- * - `404` Not Found: Resource not found.
- * - `409` Conflict: Duplicate resource (e.g., email or tag name).
  */
