@@ -16,7 +16,7 @@ This is a **Laravel-based Member Management Project** that allows you to manage 
 
 ### **Clone the Repository:**
 ```bash
-git clone [https://github.com/your-username/your-repository.git](https://github.com/OlsakRene/members-management.git)
+git clone https://github.com/your-username/your-repository.git](https://github.com/OlsakRene/members-management.git
 cd member-management
 ```
 ### **Install Dependencies:**
