@@ -41,3 +41,25 @@ php artisan migrate
 ```bash
 php artisan serve
 ```
+### **If you want to use the seeder:**
+```bash
+php artisan db:seed
+```
+
+### **Example for creating user with JSON in for example POSTMAN:**
+```bash
+{
+  "first_name": "John",
+  "last_name": "Doe",
+  "email": "john.doe@example.com",
+  "birth_date": "1990-01-01",
+  "tags": [1,2,3]
+}
+```
+
+### **Example for creating tag:**
+```bash
+{
+  "name": "VIP",
+}
+```
