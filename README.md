@@ -50,6 +50,8 @@ php artisan db:seed
 
 **For API**, I used POSTMAN and added **Content-Type: application/json** and **Accept: application/json** to headers
 
+API documentation is in members-management folder (API_DOCUMENTATION.md)
+
 ### **Example for creating user with JSON in for example POSTMAN:**
 ```bash
 {
