@@ -1,18 +1,6 @@
 # Member Management System (Laravel Project)
 
-This is a **Laravel-based Member Management System** that allows you to manage members and their associated tags. The application provides both **API endpoints** and **web views** for CRUD operations.
-
----
-
-## 📋 Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Database Schema](#database-schema)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+This is a **Laravel-based Member Management Project** that allows you to manage members and their associated tags. The application provides both **API endpoints** and **web views** for CRUD operations.
 
 ---
 
@@ -21,7 +9,6 @@ This is a **Laravel-based Member Management System** that allows you to manage m
 - Associate members with tags via a many-to-many relationship.
 - Support for both **JSON API requests** and **web views**.
 - Fully validated request handling using Laravel Form Requests.
-- Supports both **tag names** and **IDs** in API requests.
 
 ---
 
